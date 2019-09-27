@@ -10,7 +10,6 @@ def maopaosort(alist):
             break
     return alist
 
-
 def quick_sort(alist):
     n = len(alist)
     for i in range(n):
